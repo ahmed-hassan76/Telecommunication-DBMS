@@ -1,2 +1,2 @@
 # Telecommunication-DBMS
-Using SQL to implement a Telecommunication Database
+This project, CSEN604 – Data Bases II, is part of the coursework for the German University in Cairo's Faculty of Media Engineering and Technology. The goal is to extend the functionality of a Database Management System (DBMS) by implementing key features such as Bitmap Index creation, insertion, and selection, as well as data recovery mechanisms. The project focuses on optimizing query performance through indexing and ensuring data integrity via recovery processes.
